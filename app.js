@@ -34,7 +34,7 @@ const app=express()
     console.log('====================================');
     console.log(result);
     console.log('====================================');
-    resp.send("workig")
+    resp.send("working")
 });
    
  })
